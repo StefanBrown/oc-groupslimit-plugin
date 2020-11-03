@@ -1,0 +1,50 @@
+.groups-limit__overlay-link {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    overflow: hidden;
+    z-index: 1;
+    cursor: pointer;
+}
+
+.groups-limit__overlay-link:hover {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.groups-limit__overlay-link:active {
+    background: rgba(239, 18, 18, 0.3);
+    transition: 0.15s;
+}
+
+.groups-limit__link_disable {
+    background: rgb(235, 235, 235);
+    border-bottom: 1px solid rgb(225, 225, 225) !important;
+}
+
+.groups-limit__link_enable:hover .groups-limit__badge {
+    background: #fff;
+    color: #4ea5e0;
+}
+
+.groups-limit__badge {
+    position: absolute;
+    top: 50%;
+    margin-top: -9px;
+    right: 14px;
+    border-radius: 18px;
+    font-size: 12px;
+    text-align: center;
+    line-height: 18px;
+    padding: 0 6px;
+}
+
+.groups-limit__badge_enable {
+    background: rgb(239, 83, 83);
+    color: #fff;
+}
+
+.groups-limit__badge_disable {
+    background: rgb(138, 119, 119);
+    color: #fff;
+}
