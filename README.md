@@ -16,7 +16,7 @@ $ git clone https://github.com/StefanBrown/oc-groupslimit-plugin.git ./brown/gro
   
 ## Usage  
 
-To the repeater field, add css property `data-groups-limit` for auto initialization and css properties in the format `(group)-(maxitems)-badge` the latter can be skipped if the icon is not needed.
+To the repeater field, add css property `data-groups-limit` for auto initialization and css properties in the format `limit-(group)-(maxitems)-badge` the latter can be skipped if the icon is not needed.
 
 
 ##### You should get something like this:
