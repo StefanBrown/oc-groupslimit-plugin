@@ -8,8 +8,7 @@ This plugin Extend Groups in repeater. The ability to limit the number of object
 ## Installation
   
 Install the plugin via October's plugin marketplace:
-[https://octobercms.com/plugin/brown-groupslimit](https://octobercms.com/plugin/brown-groupslimit?target=_blank)
-
+<a href="https://octobercms.com/plugin/brown-groupslimit" target="_blank">https://octobercms.com/plugin/brown-groupslimit</a>
 
 Or from github:
 ```
