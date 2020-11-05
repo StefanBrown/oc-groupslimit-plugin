@@ -2,12 +2,14 @@
   
 This plugin Extend Groups in repeater. The ability to limit the number of objects from a specific group.
   
-![screensot](assets/img/screenshot.png)
+![screenshot](assets/img/screenshot.png)
 
 
 ## Installation
   
-Install the plugin via October's plugin marketplace.   
+Install the plugin via October's plugin marketplace:
+https://octobercms.com/plugin/brown-groupslimit
+
 Or from github:
 ```
 $ cd project/plugins
